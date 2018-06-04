@@ -1,3 +1,3 @@
 # hello_world
 just another Repository
-/n cool
+This is how i created repository for the first time.
